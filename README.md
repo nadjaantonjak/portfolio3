@@ -1,5 +1,9 @@
 # portfolio3
 
+![Screenshot (121)](https://user-images.githubusercontent.com/79078061/122896447-6d71f880-d38c-11eb-9de1-0b2a5d4ae99a.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/79078061/122896459-6f3bbc00-d38c-11eb-86ac-cf4d93d93031.png)
+
+
 
 https://nadjaantonjak.github.io/portfolio3/
 
